@@ -35,4 +35,5 @@ This is then followed by my achievements andn inturn by Google maps API.
 This page is containing the work experience of mine along with my contact details and skills I am proficient in. It also contains the link to my resume with downlaod options.
 
 Hence we are able to build a complete responsive site for our portfolio.
+
 [Site]: https://harshkumarchoudary.github.io/MyLife/portfolio/index.html
